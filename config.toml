@@ -1,0 +1,4 @@
+baseURL = "http://lijinqiang.site/"
+languageCode = "en-us"
+title = "Alan's Blog"
+theme = "m10c"
