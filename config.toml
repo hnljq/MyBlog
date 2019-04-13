@@ -1,4 +1,4 @@
-baseURL = "hnljq.github.io"
+baseURL = "https://hnljq.github.io"
 languageCode = "zh-CN"
 title = "Alan's Blog"
 theme = "m10c"
